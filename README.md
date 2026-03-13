@@ -7,3 +7,5 @@
 ### Nos testes realizados, o modelo KNN com seleção de atributos e sem normalização foi o que entregou os melhores resultados, alcançando um R² aproximado de 0,55. Isso aconteceu principalmente pela capacidade do algoritmo de lidar com padrões não lineares que a regressão simples não conseguiu captar totalmente.
 
 ### Para rodar este notebook, você precisará das bibliotecas básicas de ciência de dados como pandas, scikit-learn e seaborn instaladas no seu ambiente Python.
+
+### Abalone Dataset: https://www.kaggle.com/datasets/rodolfomendes/abalone-dataset
